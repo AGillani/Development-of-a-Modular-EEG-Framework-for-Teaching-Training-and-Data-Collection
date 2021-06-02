@@ -1,0 +1,50 @@
+﻿  main.cpp
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\Biquad_multiChan.h(61,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(169,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(169,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(170,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(170,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(172,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(172,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(173,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(173,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(184,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(219,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(225,30): warning C4100: 'p_open': unreferenced formal parameter
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(227,12): warning C4189: 'DEMO_TIME': local variable is initialized but not referenced
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(335,127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(308,75): warning C4100: 'width': unreferenced formal parameter
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(372,139): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(344,75): warning C4100: 'width': unreferenced formal parameter
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(392,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(466,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(468,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(517,13): warning C4456: declaration of 'i' hides previous local declaration
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(503,14): message : see declaration of 'i'
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(626,37): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(626,21): warning C4244: 'initializing': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(627,38): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(627,22): warning C4244: 'initializing': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(639,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(686,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(702,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(704,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(981,52): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(982,52): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(1000,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(1010,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(1045,59): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\main.cpp(933,13): warning C4101: 'wo': unreferenced local variable
+  example_glfw_opengl3.vcxproj -> C:\Users\Amna\source\repos\imgui-1.82\examples\example_glfw_opengl3\Debug\example_glfw_opengl3.exe
